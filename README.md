@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | WP
 - 🛢 &nbsp; MySQL <!--Firebase | Xampp-->
 - 🔧 &nbsp; PyCharm | Visual Studio code | Code::Blocks | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | DaVinci Resolve
+- 🖥 &nbsp; Figma | Illustrator | Photoshop | DaVinci Resolve
 
 <h3>✨ Github Stats</h3>
 
