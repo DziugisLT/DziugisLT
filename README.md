@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Python | C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | WP
-- 🛢 &nbsp; MySQL <!--Firebase | Xampp-->
+- 🏗 &nbsp; Mongoose | Express | React Native
+- 🛢 &nbsp; MySQL | MongoDB<!--Firebase | Xampp-->
 - 🔧 &nbsp; PyCharm | Visual Studio code | Code::Blocks | Git
 - 🖥 &nbsp; Figma | Illustrator | Photoshop | DaVinci Resolve
 
