@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on discord.js bot
+- 🔭 I’m currently working on wichop. app (wichop.lt)
 - 🌱 I’m currently learning more of JS, Python, C++ and more... Mainly focusing on JS right now
 - 👯 I’m looking to collaborate on open source projects...
 - 🤔 I’m looking for help with ...
