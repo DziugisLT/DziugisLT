@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on wichop. app (wichop.lt)
+- 🔭 &nbsp; I’m currently working on wichop. app (wichop.lt), lbs.lt and Lithuanian Radio Discord bot
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🌱 &nbsp; I’m currently learning more of JS, Python, C++ and more... Mainly focusing on JS right now
 - 👯 &nbsp; I’m looking to collaborate on open source projects
