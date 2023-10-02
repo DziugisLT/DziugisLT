@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | WP
+- 🌐 &nbsp; HTML | CSS | JavaScript | WP
 - 🏗 &nbsp; Mongoose | Express | React Native
 - 🛢 &nbsp; MySQL | MongoDB<!--Firebase | Xampp-->
 - 🔧 &nbsp; PyCharm | Visual Studio code | Code::Blocks | Git
