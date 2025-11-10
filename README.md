@@ -19,17 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp; I’m currently working on alcemi.ai and other personal projects
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
-- 🌱 &nbsp; I’m currently learning more of JS, Python, C++ and more... Mainly focusing on JS right now
-- 👯 &nbsp; I’m looking for developers to create websites for clients. Contact me ;)
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | WP
-- 🏗 &nbsp; Mongoose | Express | React Native
-- 🛢 &nbsp; MySQL | MongoDB<!--Firebase | Xampp-->
-- 🔧 &nbsp; PyCharm | Visual Studio code | Code::Blocks | Git
-- 🖥 &nbsp; Figma | Illustrator | Photoshop | DaVinci Resolve
+- 🌱 &nbsp; I’m currently learning more of everything
 
 <h3>✨ Github Stats</h3>
 
