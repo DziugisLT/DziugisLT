@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 &nbsp; I’m currently working on alcemi.ai and other personal projects
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🌱 &nbsp; I’m currently learning more of everything
-
+<!--
 <h3>✨ Github Stats</h3>
-
-<img align="left" alt="DziugisLT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DziugisLT&show_icons=true&hide_border=true" />
+ <img align="left" alt="DziugisLT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DziugisLT&show_icons=true&hide_border=true" />-->
